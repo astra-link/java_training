@@ -1,0 +1,15 @@
+public class Begin20 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float x1=1, x2=5, y1=1, y2=4, a, b;
+double distance;
+
+a=(x2*x2)-2*x2*x1+(x1*x1);
+b=(y2*y2)-2*y2*y1+(y1*y1);
+distance=Math.sqrt(a+b);
+
+System.out.println("Расстояние между точками равно "+distance);
+	}
+
+}
