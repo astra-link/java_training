@@ -1,0 +1,12 @@
+
+public class Begin30 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double rad=4, pi=3.14, grad;
+
+		grad=rad*180/pi;
+		System.out.println(rad+" радиана = "+grad+" градусов");
+	}
+
+}
