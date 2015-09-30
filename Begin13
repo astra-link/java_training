@@ -1,0 +1,17 @@
+public class Begin13 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float r1=5,r2=4;
+double pi=3.14;
+
+double s1=pi*(r1*r1);
+double s2=pi*(r2*r2);
+double s3=s1-s2;
+
+System.out.println("Площадь круга S1 "+s1);
+System.out.println("Площадь круга S2 "+s2);
+System.out.println("Площадь кольца S3 "+s3);
+	}
+
+}

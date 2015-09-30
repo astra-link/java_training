@@ -1,0 +1,15 @@
+
+public class Begin27 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+double a=4, a2, a4, a8;
+
+a2=Math.pow(a, 2);
+a4=Math.pow(a2, 2);
+a8=Math.pow(a4, 2);
+
+System.out.println("A^2="+a2+"; A^4="+a4+"; A^8="+a8);
+	}
+
+}

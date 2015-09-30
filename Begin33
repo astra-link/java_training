@@ -1,0 +1,16 @@
+
+public class Begin33 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float xKg=2, aPrice=5, yKg=5, oneKgPrice, yKgPrice;
+
+oneKgPrice = aPrice/xKg;
+System.out.println("1 килограм стоит "+oneKgPrice);
+
+yKgPrice=yKg*oneKgPrice;
+System.out.println(yKg+" килограм стоит "+yKgPrice);
+
+	}
+
+}

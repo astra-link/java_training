@@ -1,0 +1,19 @@
+
+public class Begin23 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		float a=1,b=5,c=7,temp;
+		System.out.println("начальное значение А "+a);
+		System.out.println("начальное значение В "+b);
+		System.out.println("начальное значение C "+c);
+		temp=c;
+		c=b;
+		b=a;
+		a=temp;
+		System.out.println("конечное значение А "+a);
+		System.out.println("конечное значение В "+b);
+		System.out.println("конечное значение C "+c);
+	}
+
+}

@@ -1,0 +1,14 @@
+public class Begin7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float l,s,r,pi;
+r=4;
+pi=(float) 3.14;
+l=2*pi*r;
+s=pi*(r*r);
+System.out.println("ƒлинна окружности равна "+l);
+System.out.println("ѕлощадь круга равна "+s);
+	}
+
+}

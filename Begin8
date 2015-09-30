@@ -1,0 +1,12 @@
+public class Begin8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float a,b,average;
+a=4;
+b=5;
+average=(a+b)/2;
+System.out.println("Среднее арифметическое равно "+average);
+	}
+
+}

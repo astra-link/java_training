@@ -1,0 +1,13 @@
+public class Begin12 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float a = 4,b = 5;
+double c,p;
+c = Math.sqrt((a*a)+(b*b));
+p = a+b+c;
+System.out.println("Гипотенуза равна "+c);
+System.out.println("Периметр равен "+p);
+	}
+
+}

@@ -1,0 +1,14 @@
+
+public class Begin18 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float a=4, b=10, c=8, prodAcBc;
+
+prodAcBc=(Math.abs(a-c))*(Math.abs(b-c));
+
+System.out.println("Произведение длинн отрезков равно "+prodAcBc);
+
+	}
+
+}
