@@ -1,0 +1,15 @@
+public class Begin14 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float l=10;
+double pi=3.14;
+
+double r=l/(2*pi);
+double s=pi*(r*r);
+
+System.out.println("Радиус окружности равен "+r);
+System.out.println("Площадь окружности равна "+s);
+	}
+
+}
