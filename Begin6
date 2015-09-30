@@ -1,0 +1,15 @@
+public class Begin6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float a,b,c,v,s;
+a=2;
+b=3;
+c=4;
+v=a*b*c;
+s=2*(a*b+b*c+a*c);
+System.out.println("Объём прямоугольного параллелепипеда равен "+v);
+System.out.println("Площадь прямоугольного параллелепипеда равна "+s);
+	}
+
+}
