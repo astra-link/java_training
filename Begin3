@@ -1,0 +1,14 @@
+public class Begin3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float a = 4;
+float b = 6;
+float s = a*b;
+float p = 2*(a+b);
+
+System.out.println("Площадь прямоугольника равна "+s);
+System.out.println("Периметр прямоугольника равен "+p);
+	}
+
+}
