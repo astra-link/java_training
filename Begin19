@@ -1,0 +1,17 @@
+
+public class Begin19 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float x1=1, x2=5, y1=1, y2=4, p, s, a, b;
+
+a=Math.abs(x1-x2);
+b=Math.abs(y1-y2);
+p=2*(a+b);
+s=a*b;
+
+System.out.println("Периметр равен "+p);
+System.out.println("Площадь равна "+s);
+	}
+
+}
