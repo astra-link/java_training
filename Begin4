@@ -1,0 +1,13 @@
+public class Begin4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float d = 4;
+float pi = (float) 3.14;
+float l = pi*d;
+System.out.println("Длинна окружности равна "+l);
+double lng = Math.PI*d;
+System.out.println("Вычисление с помощью константы. Длинна окружности равна "+lng);
+	}
+
+}
