@@ -1,0 +1,13 @@
+public class Begin9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		float a,b;
+		double average;
+		a=4;
+		b=5;
+		average=Math.sqrt(a+b);
+		System.out.println("Среднее геометрическое равно "+average);
+	}
+
+}
