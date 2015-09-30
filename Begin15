@@ -1,0 +1,16 @@
+
+public class Begin15 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float s=25;
+double pi = 3.14;
+
+double d = (Math.sqrt(s))/pi;
+double l = pi*d;
+
+System.out.println("Диаметр круга равен "+d);
+System.out.println("Длинна окружности равна "+l);
+	}
+
+}
