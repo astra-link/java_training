@@ -1,0 +1,10 @@
+public class Begin2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float a = 4;
+float s = a*a;
+System.out.println("Площадь квадрата равна "+s);
+	}
+
+}
