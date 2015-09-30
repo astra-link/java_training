@@ -1,0 +1,12 @@
+
+public class Begin29 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+double grad=275, pi=3.14, rad;
+
+rad=grad*pi/180;
+System.out.println(grad+" градусов равно "+rad+" радиан");
+	}
+
+}
