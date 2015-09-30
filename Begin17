@@ -1,0 +1,17 @@
+
+public class Begin17 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float a=4,b=8,c=12,ac,bc,sumAcBc;
+
+ac=Math.abs(a-c);
+bc=Math.abs(b-c);
+sumAcBc=ac+bc;
+
+System.out.println("Отрезок АС равен "+ac);
+System.out.println("Отрезок ВС равен "+bc);
+System.out.println("Сумма длинн отрезков равна "+sumAcBc);
+	}
+
+}
