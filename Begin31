@@ -1,0 +1,13 @@
+
+public class Begin31 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float tCel, tFar=68;
+
+tCel=(tFar-32)*5/9;
+
+System.out.println(tFar+" по Фаренгейту = "+tCel+" по Цельсию");
+	}
+
+}
