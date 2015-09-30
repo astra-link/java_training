@@ -1,0 +1,13 @@
+public class Begin16 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float x1=4, x2=8, distance;
+
+distance=Math.abs(x1-x2);
+
+System.out.println("Расстояние между точками равно "+distance);
+
+	}
+
+}
