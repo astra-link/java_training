@@ -1,0 +1,15 @@
+public class Begin22 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+float a=1,b=5,temp;
+System.out.println("начальное значение А "+a);
+System.out.println("начальное значение В "+b);
+temp=a;
+a=b;
+b=temp;
+System.out.println("конечное значение А "+a);
+System.out.println("конечное значение В "+b);
+	}
+
+}
